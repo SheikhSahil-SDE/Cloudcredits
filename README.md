@@ -29,4 +29,4 @@ Easy General Structure for a DevOps Project (Short Version)
         o Monitor using tools like Prometheus and Grafana.
         o Use logging tools like ELK Stack.
       6. Documentation
-        o Document steps, tools used, and configurations.
+        o Document steps, tools used, and configurations. 
