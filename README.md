@@ -13,20 +13,26 @@ DevOps project:
 
 
 Easy General Structure for a DevOps Project (Short Version)
+
       1. Application Setup
         o Choose a simple app (e.g., Node.js, Python Flask).
         o Host code on Git (GitHub, GitLab).
+
       2. Continuous Integration (CI)
         o Automate testing using CI tools (e.g., Jenkins, GitHub Actions).
         o Run test cases on code commits.
+
       3. Containerization
         o Create a Dockerfile to containerize the app.
         o Test locally using Docker.
+
       4. Continuous Deployment (CD)
         o Deploy to a cloud or server (AWS, Azure, Kubernetes).
         o Automate deployment with CI/CD pipelines.
+
       5. Monitoring and Logging
         o Monitor using tools like Prometheus and Grafana.
         o Use logging tools like ELK Stack.
+
       6. Documentation
         o Document steps, tools used, and configurations. 
