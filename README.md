@@ -36,3 +36,7 @@ Easy General Structure for a DevOps Project (Short Version)
 
       6. Documentation
         o Document steps, tools used, and configurations. 
+
+
+Example Flow:
+Commit → CI Pipeline (Build/Test) → Dockerize → Deploy → Monitor.
