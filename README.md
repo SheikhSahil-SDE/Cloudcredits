@@ -40,3 +40,8 @@ Easy General Structure for a DevOps Project (Short Version)
 
 Example Flow:
 Commit → CI Pipeline (Build/Test) → Dockerize → Deploy → Monitor.
+
+
+
+## ABOUT THE INTERNSHIP
+• Offer Letter • Completion Project Certificate • Placement Support • PPO (Pre Placement Offer) • Network Opportunity
