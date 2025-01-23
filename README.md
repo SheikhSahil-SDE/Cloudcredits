@@ -44,7 +44,11 @@ Commit → CI Pipeline (Build/Test) → Dockerize → Deploy → Monitor.
 
 
 ## ABOUT THE INTERNSHIP
-• Offer Letter • Completion Project Certificate • Placement Support • PPO (Pre Placement Offer) • Network Opportunity
+• Offer Letter 
+• Completion Project Certificate 
+• Placement Support 
+• PPO (Pre Placement Offer) 
+• Network Opportunity
 
 
 www.cloudcreditstechnologies.in 
