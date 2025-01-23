@@ -1,7 +1,7 @@
-# Cloudcredits
-DevOps Internship
+# **Cloudcredits**
+**DevOps Internship**
 
-DevOps project:
+**DevOps project:**
 1. Web Server using Docker.
 2. Implement a CI/CD Pipeline.
 3. Creating a Chatbot.
@@ -12,7 +12,7 @@ DevOps project:
 8. Build a Scalable Application with Kubernetes and Docker.
 
 
-Easy General Structure for a DevOps Project (Short Version)
+_Easy General Structure for a DevOps Project (Short Version)_
 
       1. Application Setup
         o Choose a simple app (e.g., Node.js, Python Flask).
