@@ -1,7 +1,7 @@
 # **Cloudcredits**
 **DevOps Internship**
 
-**DevOps project:**
+**_DevOps project:_**
 1. Web Server using Docker.
 2. Implement a CI/CD Pipeline.
 3. Creating a Chatbot.
@@ -30,11 +30,11 @@ _Easy General Structure for a DevOps Project (Short Version)_
         o Deploy to a cloud or server (AWS, Azure, Kubernetes).
         o Automate deployment with CI/CD pipelines.
 
-      5. Monitoring and Logging
+     ** 5. Monitoring and Logging**
         o Monitor using tools like Prometheus and Grafana.
         o Use logging tools like ELK Stack.
 
-      6. Documentation
+      **6. Documentation**
         o Document steps, tools used, and configurations. 
 
 
