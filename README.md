@@ -48,11 +48,11 @@ Example Flow:
 • Offer Letter 
 • Completion Project Certificate 
 • Placement Support 
-• PPO (Pre Placement Offer) 
+• PPO (Pre Placement Offer)
 • Network Opportunity
 
 
-SOURCR: YouTube | w3school.com | 
+SOURCR: YouTube | w3schools.com | Udemy
 
 www.cloudcreditstechnologies.in 
 info@cloudcreditstechnologies.in
