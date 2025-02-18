@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+Step 1: Choose 2 Projects
+
+  From the list, I recommend starting with these two (combines foundational DevOps skills):
+  
+      Project 1: Web Server using Docker
+      
+      Containerize a simple web app (e.g., Node.js/Python Flask).
+      
+      Project 2: Implement a CI/CD Pipeline
+      
+      Automate testing and deployment for your Dockerized app using GitHub Actions/Jenkins.
+  
+  Why these?  
+  They align with the "General Structure" provided in the PDF.
+  They’re beginner-friendly and widely documented.
