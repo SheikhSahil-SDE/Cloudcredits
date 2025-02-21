@@ -1,13 +1,4 @@
-
-
-
-
-
-
-
-
-
-Step 1: Choose 2 Projects
+# Step 1: Choose 2 Projects
 
   From the list, I recommend starting with these two (combines foundational DevOps skills):
   
@@ -22,3 +13,53 @@ Step 1: Choose 2 Projects
   Why these?  
   They align with the "General Structure" provided in the PDF.
   They’re beginner-friendly and widely documented.
+
+
+Step 2: Set Up GitHub Repository
+        
+        Create a repo named Cloudcredits on GitHub.
+        Structure it like this:
+                        Cloudcredits/
+                        ├── Project1-Docker-Web-Server/
+                        │   ├── app/               # Your application code
+                        │   ├── Dockerfile         # Docker configuration
+                        │   ├── README.md          # Documentation for the project
+                        │   └── ...
+                        ├── Project2-CI-CD-Pipeline/
+                        │   ├── .github/workflows/ # GitHub Actions pipeline
+                        │   ├── Jenkinsfile        # Jenkins pipeline script
+                        │   ├── README.md
+                        │   └── ...
+                        └── ...  
+
+Step 3: Project 1 – Web Server Using Docker
+
+            Tasks:
+              1. Build a Simple App:              
+                  * Use Node.js/Flask to create a "Hello World" app.                  
+                  * Example Node.js code:
+                      
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
