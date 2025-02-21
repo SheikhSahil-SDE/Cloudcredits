@@ -59,3 +59,97 @@ info@cloudcreditstechnologies.in
 **9784668018**
 
 
+
+
+
+
+
+# Step 1: Choose 2 Projects
+
+  From the list, I recommend starting with these two (combines foundational DevOps skills):
+  
+      Project 1: Web Server using Docker
+      
+      Containerize a simple web app (e.g., Node.js/Python Flask).
+      
+      Project 2: Implement a CI/CD Pipeline
+      
+      Automate testing and deployment for your Dockerized app using GitHub Actions/Jenkins.
+  
+  Why these?  
+  They align with the "General Structure" provided in the PDF.
+  They’re beginner-friendly and widely documented.
+
+
+# Step 2: Set Up GitHub Repository
+        
+        Create a repo named Cloudcredits on GitHub.
+        Structure it like this:
+                        Cloudcredits/
+                        ├── Project1-Docker-Web-Server/
+                        │   ├── app/               # Your application code
+                        │   ├── Dockerfile         # Docker configuration
+                        │   ├── README.md          # Documentation for the project
+                        │   └── ...
+                        ├── Project2-CI-CD-Pipeline/
+                        │   ├── .github/workflows/ # GitHub Actions pipeline
+                        │   ├── Jenkinsfile        # Jenkins pipeline script
+                        │   ├── README.md
+                        │   └── ...
+                        └── ...  
+
+# Step 3: Project 1 – Web Server Using Docker
+
+            Tasks:
+              1. Build a Simple App:              
+                  * Use Node.js/Flask to create a "Hello World" app.                  
+                  * Example Node.js code:
+
+                    JavaScript
+                    const express = require('express');
+                    const app = express();
+                    app.get('/', (req, res) => res.send('Hello from Docker!'));
+                    app.listen(3000, () => console.log('Server running on port 3000')); 
+
+              2. Containerize with Docker:                  
+                  * Write a Dockerfile:
+
+                    dockerfile
+                    FROM node:14
+                    WORKDIR /app
+                    COPY package*.json ./
+                    RUN npm install
+                    COPY . .
+                    CMD ["node", "app.js"]
+
+                * Build and run locally:
+
+                  bash
+                  docker build -t my-web-app .
+                  docker run -p 3000:3000 my-web-app
+
+                * Push to Docker Hub:
+                  Create a Docker Hub account and push your image for later use in CI/CD.
+
+            Documentation: Explain the app, Docker setup, and commands in README.md.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
