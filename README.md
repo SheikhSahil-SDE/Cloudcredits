@@ -102,8 +102,8 @@ Tasks:
   1. Build a Simple App:              
       * Use Node.js/Flask to create a "Hello World" app.                  
       * Example Node.js code:
-
-                    JavaScript
+            JavaScript
+                    
                     const express = require('express');
                     const app = express();
                     app.get('/', (req, res) => res.send('Hello from Docker!'));
