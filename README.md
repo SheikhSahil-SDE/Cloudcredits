@@ -141,22 +141,22 @@ Tasks:
       
       * For GitHub Actions:
       
-         1. Create .github/workflows/main.yml to automate building, testing, and pushing Docker images.
-      
-      * Example workflow:
-            yaml
+         1. Create .github/workflows/main.yml to automate building, testing, and pushing Docker images.      
+         2. Example workflow:
+        
+                  yaml
 
-              name: CI/CD Pipeline
-              on: [push]
-              jobs:
-                    build:
-                      runs-on: ubuntu-latest
-                      steps:
-                        - uses: actions/checkout@v2
-                        - name: Build Docker Image
-                          run: docker build -t my-web-app .
-                        - name: Run Tests
-                          run: docker run my-web-app npm test
+                    name: CI/CD Pipeline
+                    on: [push]
+                    jobs:
+                          build:
+                            runs-on: ubuntu-latest
+                            steps:
+                              - uses: actions/checkout@v2
+                              - name: Build Docker Image
+                                run: docker build -t my-web-app .
+                              - name: Run Tests
+                                run: docker run my-web-app npm test
  3. Deploy to Cloud:
       * Use AWS/Azure free tier to deploy your Dockerized app (e.g., AWS EC2 or Azure App Service).
 
