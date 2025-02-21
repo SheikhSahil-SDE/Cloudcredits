@@ -69,10 +69,10 @@ info@cloudcreditstechnologies.in
 From the list, I recommend starting with these two (combines foundational DevOps skills):
   
 Project 1: Web Server using Docker    
-      Containerize a simple web app (e.g., Node.js/Python Flask).
+Containerize a simple web app (e.g., Node.js/Python Flask).
       
 Project 2: Implement a CI/CD Pipeline
-       Automate testing and deployment for your Dockerized app using GitHub Actions/Jenkins.
+Automate testing and deployment for your Dockerized app using GitHub Actions/Jenkins.
   
   Why these?  
   They align with the "General Structure" provided in the PDF.
@@ -111,8 +111,8 @@ Tasks:
 
    2. Containerize with Docker:                  
       * Write a Dockerfile:
-
-                    dockerfile
+            dockerfile
+                    
                     FROM node:14
                     WORKDIR /app
                     COPY package*.json ./
@@ -121,13 +121,12 @@ Tasks:
                     CMD ["node", "app.js"]
 
        * Build and run locally:
-
-                  bash
+            bash
+                           
                   docker build -t my-web-app .
                   docker run -p 3000:3000 my-web-app
 
-        * Push to Docker Hub:
-                  Create a Docker Hub account and push your image for later use in CI/CD.
+        * Push to Docker Hub: Create a Docker Hub account and push your image for later use in CI/CD.
 
             Documentation: Explain the app, Docker setup, and commands in README.md.
 
