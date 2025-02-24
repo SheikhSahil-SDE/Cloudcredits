@@ -8,6 +8,6 @@ DevOps project:
 	Project 1: Web Server Using Docker
               		Docker Desktop Downloaded
               		wsl --update (PowerShell)
-              		Installed Docker Desktop 
+              		Installed Docker Desktop  {https://docs.docker.com/desktop/setup/install/windows-install/}
 		
   Project 2: Implement a CI/CD Pipeline
