@@ -165,8 +165,8 @@ Documentation:
 
 Step 5: LinkedIn Demo Videos
       Video 1: Docker Web Server
-
-            Showcase:
+      Showcase:
+      
                   Code structure on GitHub.
                   Docker build process.
                   App running locally/on cloud.
@@ -174,12 +174,12 @@ Step 5: LinkedIn Demo Videos
    Hashtags: #Cloudcredits #internship #DevOps.
       
 
-  Video 2: CI/CD Pipeline
+  Video 2: CI/CD Pipeline 
+  Showcase:
 
-            Showcase:
             Pipeline triggering on code push.
             Successful build/test logs.
-            Deployment to cloud.
+            Deployment to the cloud.
 
   Tag @Cloudcredits in posts.
 
