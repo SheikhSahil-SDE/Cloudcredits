@@ -177,9 +177,9 @@ Step 5: LinkedIn Demo Videos
   Video 2: CI/CD Pipeline 
   Showcase:
 
-            Pipeline triggering on code push.
-            Successful build/test logs.
-            Deployment to the cloud.
+                  Pipeline triggering on code push.
+                  Successful build/test logs.
+                  Deployment to the cloud.
 
   Tag @Cloudcredits in posts.
 
