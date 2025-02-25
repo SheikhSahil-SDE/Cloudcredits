@@ -6,12 +6,32 @@ GitHub repository (name as Cloudcredits)
 DevOps project:
 
 	Project 1: Web Server Using Docker
+	Objective: Containerize a simple web application using Docker and deploy it.
+
               		Docker Desktop Downloaded
               		wsl --update (PowerShell)
               		Installed Docker Desktop  {https://docs.docker.com/desktop/setup/install/windows-install/}
 		
-	Prerequisites:
+	1. Prerequisites:
 			Install Docker (Docker Installation Guide).
 			Basic knowledge of Git and a GitHub account.
+	2. Application Setup:
+			Create a simple web app (e.g., a "Hello World" HTML page or a Python Flask app).
+			Example Flask app (app.py):
 
+			from flask import Flask  
+			app = Flask(__name__)  
+			  
+			@app.route('/')  
+			def hello():  
+			    return "Hello from Dockerized Flask!"  
+			  
+			if __name__ == '__main__':  
+			    app.run(host='0.0.0.0', port=5000)  
+
+		Create a requirements.txt file with Flask==2.0.1.
+
+	3. Containerization:
+			Create a Dockerfile:
+	
   	Project 2: Implement a CI/CD Pipeline
