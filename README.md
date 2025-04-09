@@ -54,8 +54,7 @@ Example Flow:
 
 SOURCR: YouTube | w3schools.com | Udemy
 
-www.cloudcreditstechnologies.in 
-info@cloudcreditstechnologies.in
+www.cloudcreditstechnologies.in <p> info@cloudcreditstechnologies.in <p>
 **9784668018**
 
 # Step 1: Choose 2 Projects
