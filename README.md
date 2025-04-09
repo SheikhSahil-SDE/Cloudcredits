@@ -12,7 +12,7 @@
 8. Build a Scalable Application with Kubernetes and Docker.
 
 
-_Easy General Structure for a DevOps Project (Short Version)_
+**_Easy General Structure for a DevOps Project (Short Version)_**
 
       1. Application Setup
         o Choose a simple app (e.g., Node.js, Python Flask).
