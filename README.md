@@ -58,12 +58,6 @@ www.cloudcreditstechnologies.in
 info@cloudcreditstechnologies.in
 **9784668018**
 
-
-
-
-
-
-
 # Step 1: Choose 2 Projects
 
 From the list, I recommend starting with these two (combines foundational DevOps skills):
