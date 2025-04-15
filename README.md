@@ -182,8 +182,8 @@ Step 6: Final Submission
       3. Share LinkedIn video links in the form.
 
 Tools to Learn
-     1. Must-Know: Git, Docker, GitHub Actions/Jenkins, AWS/Azure basics.
-     2. Optional: Kubernetes (for bonus points), Terraform.
+                 1. Must-Know: Git, Docker, GitHub Actions/Jenkins, AWS/Azure basics.
+                 2. Optional: Kubernetes (for bonus points), Terraform.
 
 
 
