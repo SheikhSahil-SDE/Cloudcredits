@@ -3,7 +3,7 @@
 
 **_DevOps project:_**
 1. Web Server using Docker.
-2. Implement a CI/CD Pipeline.
+2. Implement a CI/CD Pipeline. ```https://github.com/SheikhSahil-SDE/Assignment_Projects/actions/workflows/ci.yml```
 3. Creating a Chatbot.
 4. Jenkins Remoting Project.
 5. Building VCS.
